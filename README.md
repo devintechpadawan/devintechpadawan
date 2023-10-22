@@ -1,7 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Devin! <br/><a href="https://github.com/devintechpadawan">Programer</a>, <a href="www.linkedin.com/in/devin-taylor-004ab75b">Cybersecurity Professional</a>
 
+<h2> Software Development Projects:</h2>
+UNDER CONSTRUCTION
+
+
+
+
+[linkedin]: www.linkedin.com/in/devin-taylor-004ab75b
 <!--
-**devintechpadawan/devintechpadawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
