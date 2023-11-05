@@ -2,9 +2,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Web Scrapping with Natural Language Processing Script</b>
-  - [Web Scrapping with Natural Language Processing Script in Python]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/devintechpadawan/Web-Scraping-and-Language-Processing))
-<h3>(https://github.com/devintechpadawan/Web-Scraping-and-Language-Processing)
-
+  - [Web Scrapping with Natural Language Processing Script in Python]([https://github.com/devintechpadawan/Web-Scraping-and-Language-Processing])
+<h2>
+- <b>Virus Total Client</b>
+  - [Scan Directory with Virus Total]([https://github.com/devintechpadawan/Scan-directory-with-Virus-Total-/tree/main])
+<h4>
 
 
 
