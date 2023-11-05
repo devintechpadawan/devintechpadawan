@@ -1,4 +1,4 @@
-<h1>Hi, I'm Devin! <br/><a href="https://github.com/devintechpadawan">Programer</a>, <a href="www.linkedin.com/in/devin-taylor-004ab75b">Cybersecurity Professional</a>
+<h1>Hi, I'm Devin! <br/><a href="https://github.com/devintechpadawan">Programing</a>, <a href="www.linkedin.com/in/devin-taylor-004ab75b">Cybersecurity</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Web Scrapping with Natural Language Processing Script</b>
