@@ -1,4 +1,4 @@
-<h1>Hi, I'm Devin! <br/>I enjoy Programing Cybersecurity and Artificial Intelligence.
+<h1>Hi, I'm Devin! <br/>I enjoy Programing, Cybersecurity and Artificial Intelligence.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
