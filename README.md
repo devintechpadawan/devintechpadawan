@@ -1,4 +1,4 @@
-<h1>Hi, I'm Devin! <br/>I enjoy <a href="https://github.com/devintechpadawan"> Programing</a>, <a href="www.linkedin.com/in/devin-taylor-004ab75b">Cybersecurity</a> and Artificial Intelligence.
+<h1>Hi, I'm Devin! <br/>I enjoy Programing Cybersecurity and Artificial Intelligence.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
