@@ -2,14 +2,18 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 - <b>Web Scrapping with Natural Language Processing Script</b>
-  - [Web Scrapping with Natural Language Processing Script in Python]([https://github.com/devintechpadawan/Web-Scraping-and-Language-Processing])
-<h2>
+  - [Web Scrapping with Natural Language Processing Script in Python]https://github.com/devintechpadawan/Web-Scraping-and-Language-Processing
+<h3>
 - <b>Virus Total Client</b>
-  - [Scan Directory with Virus Total]([https://github.com/devintechpadawan/Scan-directory-with-Virus-Total-/tree/main])
+  - [Scan Directory with Virus Total]https://github.com/devintechpadawan/Scan-directory-with-Virus-Total-/tree/main
+</h3>
 <h4>
+- <b>Document Language Analysis</b>
+  - [Document Language Analysis]https://github.com/devintechpadawan/DocumentAnalysis
+</h4>  
 
 
-
+<h5>
 [linkedin]: www.linkedin.com/in/devin-taylor-004ab75b
 <!--
 
