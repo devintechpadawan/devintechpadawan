@@ -10,6 +10,11 @@
   - [Document Language Analysis](https://github.com/devintechpadawan/DocumentAnalysis)
 
 
+<h2>☁️ Azure Project:</h2>
+- <b>Implementing a SOC and Honeynet in Azure</b>
+  
+  - [Implementing-a-SOC-and-Honeynet-in-Azure-](https://github.com/devintechpadawan/Implementing-a-SOC-and-Honeynet-in-Azure-/blob/main/README.md)
+
 
 
 
